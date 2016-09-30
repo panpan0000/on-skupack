@@ -33,7 +33,7 @@ deploy:
     user: $BINTRAY_USER
     key: $BINTRAY_KEY
     on:
-      branch: master
+        branch: release-2.1.0
 
 #notifications:
 #  slack:
